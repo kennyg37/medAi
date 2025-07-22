@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+transformers
+accelerate
+sentencepiece
+protobuf
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+httpx
+sacremoses
+openai 
